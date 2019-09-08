@@ -1,4 +1,4 @@
-# git_basics
+﻿# git_basics
 * Basics of git
 
 ----
@@ -25,4 +25,4 @@
 * git commit -m ''
 * git push origin master
 
-----
+HALLLOOOOOOOOO                KODLUYORUZKEEEEEEEE
